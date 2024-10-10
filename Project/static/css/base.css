@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+
+h1{
+    color: darkslategray;
+    margin: 40px;
+}
+
+a{
+    color: darkslategray;
+    font-size: 40px;
+    
+}
+.header{
+    margin: 30px;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
